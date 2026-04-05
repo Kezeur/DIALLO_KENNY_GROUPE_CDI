@@ -1,0 +1,10 @@
+1. Application analysée : Le site e-commerce Maison Margiela.
+
+2. Éléments visibles (Frontend) : L'interface utilisateur comprenant les galeries photos, les menus, le bouton "Ajouter au panier" et les formulaires de commande.
+
+3. Actions en arrière-plan (Backend) : La vérification des stocks en temps réel, le traitement sécurisé des paiements et la gestion des comptes clients.
+
+4. Technologies identifiées (via Wappalyzer) :
+Frontend : HTML5, CSS3, JavaScript, React
+Backend : Plateforme e-commerce robuste (ex: Salesforce Commerce Cloud), Node.js, et bases de données relationnelles (ex: PostgreSQL).
+
